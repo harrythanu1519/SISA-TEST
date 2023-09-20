@@ -1,5 +1,6 @@
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, WORLD_SISA!");
-    }
-}
+# hello.py
+def main():
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    main()
